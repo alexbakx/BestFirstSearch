@@ -1,0 +1,38 @@
++-------------------------------------------+
+|              X                            |
+|     XXXXXX     XX                         |
+|    XXXXXXX XXXXXXX                        |
+|   XXXX         XXXX                       |
+|                XXXXX                      |
+|                XXXXX                      |
+|                XXXX                       |
+|              XXXX                         |
+|             XXXXX                         |
+|            XXXX             XXXXX         |
+|           SXXX          XXXXXXXXXXXXXX    |
+|            XXXX        XXXX       XXXXX   |
+|            XXXXXX   X XXXX        XXXXX   |
+|              XXXXXXXX           XXXXX     |
+|                 XXXXX           XXXX      |
+|                 X              XXXX       |
+|                 X            XXXX         |
+|                 X                         |
+|                 X                         |
+|     XXXXXXXXXXXXX                         |
+|    XXXXXXXXXXXXXXX                        |
+|   XXXX         XXXX                       |
+|                XXXXX                      |
+|                XXXXX                      |
+|                XXXX                       |
+|              XXXX                         |
+|             XXXXX                         |
+|            XXXX             XXXXX         |
+|           XXX          XXXXXXXXXXXXXX     |
+|            XXXX        XXXX       XXXXX   |
+|            XXXXXX   XXXXXX        XXXXX   |
+|              XXXXXXXX           XXXXX     |
+|                 XXXXX           XXXXG     |
+|                                XXXX       |
+|                              XXXX         |
+|                                X          |
++-------------------------------------------+
