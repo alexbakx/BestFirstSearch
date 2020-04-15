@@ -1,2 +1,2 @@
-# BestFirstSearch
-Implementation of a best first search using Python
+# Best First Search
+This projects implements a best first search to get from a starting point to an end point on a map. The implementation was done using Python. The starting point on the map is displayed by an **_S_**, while the end point is shown as a **_G_**. On the map, the **_X_** shows a wall that the algorithm can't go through. The five example maps provided demonstrate the algorithm at work, however any map in the same kind of format can be used by this algorithm. 
