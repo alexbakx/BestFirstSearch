@@ -31,3 +31,9 @@ This method takes the path from start point to end point, and displays it on top
 
 ### main
 Opens a new map, then executes the search algorithm to find the path and display in on the map.
+
+## Demonstration
+This demonstration takes as input the map labelled **_1.txt_** and runs the algorithm to find the path between start point and end point. 
+
+### Output of Map
+![map](https://github.com/alexbakx/BestFirstSearch/blob/master/map_output.png?raw=true)
